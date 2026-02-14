@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hi there, I'm Gabriel Teixeira da Silva! 👋<br><br>I'm a 3rd-year Informatics Engineering student at ISEP based in Porto, Portugal. I am passionate about Full-Stack Development and have hands-on experience building applications using Next.js, Java, C#, and SQL.
+Hi there, I'm Gabriel Teixeira da Silva! 👋<br><br>I'm a Informatics Engineering student @ ISEP (3rd year), focused on building software that truly bridges the gap between technology and user needs.
+
+My passion lies at the intersection of Software Engineering and Product Management. While I love the technical challenges of engineering, I am increasingly driven by product strategy and user-centric design and understanding the "why" behind what we build.
+
+Currently, I am a member of the AEISEP IT Department and part of the External Relations team at NEI-ISEP, where I facilitate the connection between students and the corporate world.
+
+
 <br><br>Accustomed to working in Agile/Scrum environments through academic and freelance projects.<br><br>
 
 
