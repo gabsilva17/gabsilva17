@@ -4,8 +4,6 @@ Hi there, I'm Gabriel Teixeira da Silva! 👋<br><br>I'm a Informatics Engineeri
 My passion lies at the intersection of Software Engineering and Product Management. While I love the technical challenges of engineering, I am increasingly driven by product strategy and user-centric design and understanding the "why" behind what we build.
 
 Currently, I am a member of the AEISEP IT Department and part of the External Relations team at NEI-ISEP, where I facilitate the connection between students and the corporate world.
-
-
 <br><br>Accustomed to working in Agile/Scrum environments through academic and freelance projects.<br><br>
 
 
